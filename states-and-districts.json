@@ -1,5 +1,11 @@
 {  
-   "states":[  
+   "states":[
+      {  
+         "state":"Out Side India",
+         "districts":[  
+            "Out Side India"
+         ]
+      },
       {  
          "state":"Andhra Pradesh",
          "districts":[  
